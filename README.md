@@ -12,5 +12,5 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/495257778802393088?animated=true" height=175px/>
   </a> 
   <br>
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAMcraft&show_icons=true&theme=tokyonight">
 </p>
