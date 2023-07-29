@@ -8,9 +8,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://discord.gg/6wG3fTj9">
-    <img src="https://lanyard-profile-readme.vercel.app/api/495257778802393088?animated=true" height=175px/>
-  </a> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/495257778802393088?animated=true" height=200px/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=DAMcraft&show_icons=true&theme=tokyonight">
 </p>
