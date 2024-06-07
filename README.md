@@ -16,4 +16,4 @@ You can find my PGP key [here](https://damcraft.de/pgp)
 <img src="https://lanyard-profile-readme.vercel.app/api/495257778802393088?animated=true" height=200px/>  <img src="https://github-readme-stats.vercel.app/api?username=DAMcraft&show_icons=true&theme=tokyonight">
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/DAMcraft/DAMcraft/main/background.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/DAMcraft/DAMcraft/main/background.png');]{x0000}$}
