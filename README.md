@@ -7,7 +7,7 @@ You might also know me as Damian, I am a 17 year-old developer from Germany
 | Platform  | Contact                 |
 |-----------|-------------------------|
 | Discord:  | @damcraft.de            |
-| Matrix:   | @damcraft.de:matrix.org |
+| Matrix:   | @dam:tchncs.de          |
 | Mail:     | contact@damcraft.de     |
 | Website:  | https://damcraft.de/    |
 
