@@ -4,12 +4,13 @@ You might also know me as Damian, I am a 17 year-old developer from Germany
 
 **Find Me Here**
     
-| Platform  | Contact                 |
-|-----------|-------------------------|
-| Discord:  | @damcraft.de            |
-| Matrix:   | @dam:tchncs.de          |
-| Mail:     | contact@damcraft.de     |
-| Website:  | https://damcraft.de/    |
+| Platform  | Contact                                             |
+|-----------|-----------------------------------------------------|
+| Discord:  | @damcraft.de                                        |
+| Matrix:   | [@dam:tchncs.de](https://matrix.to/#/@dam:tchncs.de)|
+| Mail:     | contact@damcraft.de                                 |
+| Website:  | https://damcraft.de/                                |
+| Fedi:     | [@dam@lethallava.land](https://lethallava.land/@dam)|
 
 You can find my PGP key [here](https://damcraft.de/pgp)
   
